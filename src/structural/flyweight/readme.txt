@@ -1,0 +1,1 @@
+See the Composite pattern's Character.java for an implementation of the Flyweight pattern.

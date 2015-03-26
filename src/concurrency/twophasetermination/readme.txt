@@ -1,0 +1,1 @@
+Look at Receiver.java in the Packager project for an example of this pattern.
